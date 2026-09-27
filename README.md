@@ -1,3 +1,15 @@
+## Cross-compiled 32-bit Zigbee2MQTT Bridge
+
+Diese Version enthält eine für 32-Bit-Systeme kompilierte Zigbee2MQTT-Bridge.
+
+### Installation
+
+```bash
+git clone https://github.com/mariusonboard/cross-compiled\_32bit\_Zigbee2MQTT\_Bridge.git
+cd cross-compiled\_32bit\_Zigbee2MQTT\_Bridge
+npm install
+```
+
 <div align="center">
     <a href="https://github.com/koenkk/zigbee2mqtt">
         <img width="150" height="150" src="images/logo.png">
