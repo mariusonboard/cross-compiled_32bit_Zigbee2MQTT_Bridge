@@ -1,6 +1,6 @@
 ## Cross-compiled 32-bit Zigbee2MQTT Bridge
 
-Diese Version enthält eine für 32-Bit-Systeme kompilierte Zigbee2MQTT-Bridge.
+Diese Version enthält eine speziell für 32-Bit-Systeme kompilierte Zigbee2MQTT-Bridge.
 
 ### Installation
 
