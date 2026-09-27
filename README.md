@@ -2,6 +2,8 @@
 
 Diese Version enthält eine speziell für 32-Bit-Systeme kompilierte Zigbee2MQTT-Bridge.
 
+Cross-compiled on Pi 4b for 32 bit Pi Zero
+
 ### Installation
 
 ```bash
