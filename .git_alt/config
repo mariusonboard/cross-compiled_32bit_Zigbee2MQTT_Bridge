@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/highlyflammablegp/cross-compiled_32bit_Zigbee2MQTT_Bridge.git
+	fetch = +refs/tags/1.42.0:refs/tags/1.42.0
